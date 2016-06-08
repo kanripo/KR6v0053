@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:23.781445
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:10
 #+TITLE: 大乘無盡藏法
 #+PROPERTY: CBETA_ID W04n0042
 #+PROPERTY: ID KR6v0053
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 04, No. 042
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0053_W_001-0363a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 大乘無盡藏法¶
 整理者　方廣錩¶
 ¶
 
@@ -43,7 +43,7 @@
 甲本：斯2137號。
 <pb:KR6v0053_W_001-0364a>¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
 
 （前殘）¶
